@@ -8,9 +8,8 @@ print(name[:10])
 print(name[::-1])
 name=(str)
 str='igor shvetsov'
-print(len(str))
-
-
+print(int('99'))
+print(int('99'+'99'))
 
 
 
