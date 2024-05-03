@@ -1,17 +1,10 @@
-name='igor shvetsov '
-print(name)
-print('hello '+ name)
-print(name * 7)
-print(name[0])
-print(name[-2])
-print(name[:10])
+name ='Igor shvetsov'
+print(name [0])
+print(name[-1])
+print(name[2:5])
 print(name[::-1])
-name=(str)
-str='igor shvetsov'
-print(int('99'))
-print(int('99'+'99'))
-
-
+print(len(name))
+print('Hello ' + name)
 
 
 
